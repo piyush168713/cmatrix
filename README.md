@@ -1,3 +1,3 @@
 # CMatrix
 
-<img scr="./scr.png">
+![Special Font & bold](data/img/capture_bold_font.png?raw=true "cmatrix -bx")
