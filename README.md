@@ -1,3 +1,6 @@
+<img src="./cmat.jpg">
+
+
 # CMatrix
 
-<img scr="./cmat.jpg">
+
